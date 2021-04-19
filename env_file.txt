@@ -1,0 +1,3 @@
+REACT_APP_STRIPE_KEY = pk_test_51HRj90DtDqbnhI5336h6uZVLnLzDxCahnpU5mX76q5VZ7posftGukS5kS5LyFHbh0Ro1bVJBh52dgmCsfRK7yM0E00PudAeMTR
+
+#####rename to .env and add to gitignore file
